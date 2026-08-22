@@ -2,7 +2,7 @@
 
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hey, I'm Jayasahan Hansana
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00FF41&center=true&vCenter=true&width=800&lines=Computer+Engineering+Undergrad+🎓;Software+Architecture+Enthusiast+🏗️;Building+Startups+🚀;AI-Assisted+Developer+🤖;Always+Upgrading+Myself+⚡" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00FF41&center=true&vCenter=true&width=800&lines=Computer+Engineering+Undergrad+🎓;Software+Architecture+Enthusiast+🏗️;Building+Startups+🚀;Engineer - Developer+🤖;Always+Upgrading+Myself+⚡" alt="Typing SVG" />
 
 <br>
 
