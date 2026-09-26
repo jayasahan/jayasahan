@@ -57,12 +57,12 @@ builder_side:
 
 I'm a Computer Engineering undergraduate interested in the engineering that happens **after the code is written**:
 
-> How do we deploy it?
-> How do we automate it?
-> How do systems communicate?
-> How do we secure it?
-> How do we monitor it?
-> How do we scale it?
+> How do we deploy it?  
+> How do we automate it?  
+> How do systems communicate?  
+> How do we secure it?  
+> How do we monitor it?  
+> How do we scale it?  
 > And how can AI make those systems smarter?
 
 I enjoy building applications too — because understanding the software being deployed makes me a better infrastructure engineer.
@@ -96,15 +96,15 @@ I enjoy building applications too — because understanding the software being d
 
 ### What I'm currently developing
 
-* 🐧 **Linux & systems administration**
-* 🌐 **Computer networking**
-* ☁️ **Cloud infrastructure**
-* 🔄 **CI/CD and DevOps workflows**
-* 🐳 **Containers and deployment**
-* 🔐 **Infrastructure & application security**
-* 📊 **Monitoring, reliability and observability**
-* 🤖 **AI systems, agents and AI-assisted development**
-* 🏗️ **Software & infrastructure architecture**
+- 🐧 **Linux & systems administration**
+- 🌐 **Computer networking**
+- ☁️ **Cloud infrastructure**
+- 🔄 **CI/CD and DevOps workflows**
+- 🐳 **Containers and deployment**
+- 🔐 **Infrastructure & application security**
+- 📊 **Monitoring, reliability and observability**
+- 🤖 **AI systems, agents and AI-assisted development**
+- 🏗️ **Software & infrastructure architecture**
 
 ---
 
@@ -224,16 +224,16 @@ A production-oriented platform for managing local service operations and custome
 
 ### Infrastructure lessons
 
-* Production deployment
-* PostgreSQL
-* Environment configuration
-* Security hardening
-* Authentication
-* CDN & caching
-* DNS management
-* Health checks
-* Database migrations
-* Application lifecycle management
+- Production deployment
+- PostgreSQL
+- Environment configuration
+- Security hardening
+- Authentication
+- CDN & caching
+- DNS management
+- Health checks
+- Database migrations
+- Application lifecycle management
 
 **Status:** 🚧 Actively evolving
 
@@ -347,14 +347,14 @@ Idea → Development → Debugging → Packaging
 
 # 🏆 Highlights
 
-|     | Achievement                                           |
-| --- | ----------------------------------------------------- |
-| 🥇  | **AgentriX 2026 — 1st Place**                         |
-| 🤖  | **IBM AI Developer Professional Certificate**         |
-| 🚀  | **Published Browser Extension**                       |
-| 🛰️ | **NASA ARSET — Remote Sensing Training**              |
-| 🎨  | **ReXtro Engineering Exhibition Project Contributor** |
-| 🌐  | **Built and deployed real web platforms**             |
+| | Achievement |
+|---|---|
+| 🥇 | **AgentriX 2026 — 1st Place** |
+| 🤖 | **IBM AI Developer Professional Certificate** |
+| 🚀 | **Published Browser Extension** |
+| 🛰️ | **NASA ARSET — Remote Sensing Training** |
+| 🎨 | **ReXtro Engineering Exhibition Project Contributor** |
+| 🌐 | **Built and deployed real web platforms** |
 
 ---
 
